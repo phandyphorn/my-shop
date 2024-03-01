@@ -1,9 +1,9 @@
 import React from "react";
 import { useRoutes } from "react-router-dom";
-import ContactPage from "../views/contact/ContactPage";
-import MainLayout from "../layout/MainLayout/MainLayout";
-import VegetablePage from "../views/vegetable/VegetablePage";
-import FruitPage from "../views/fruit/FruitPage";
+import ContactPage from "../views/ContactPage";
+import MainLayout from "../layout/MainLayout";
+import VegetablePage from "../views/VegetablePage";
+import FruitPage from "../views/FruitPage";
 
 export const VEGETABLE_URL = "/vegetable";
 export const FRUIT_URL = "/fruit";
